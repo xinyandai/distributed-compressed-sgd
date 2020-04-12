@@ -1,0 +1,2 @@
+from .compressor_nn import NearestNeighborCompressor
+from .compressor_qsgd import QSGDCompressor
